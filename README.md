@@ -76,6 +76,8 @@ Analizar la teoria vista en clase y poder recolectar mas información en el capi
 
 **4. VIDEO**
 
+https://www.youtube.com/watch?v=KEy2JZSK7mQ&ab_channel=RubenBustos
+
 **5. CONCLUSIONES**
 
 Al completar el capitulo se pudo llevar un poco mas de practica y analisis con la ayuda de las clases propuestas del ingeniero encargado y el apoyo del libro de floyd se pudo entender de mejor manera y completar sus ejercicios sin ninguna dificultad.
