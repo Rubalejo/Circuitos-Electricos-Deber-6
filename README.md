@@ -12,7 +12,7 @@ Indagar los temas vistos en el capitulo 11 y 12 de la Corriente y el voltaje alt
 
 **Objetivo Especifico**
 
-Identificar 
+Identificar y describir la construcción y sus caracteristicas básicas de un capacitador.
 
 Analizar la teoria vista en clase y poder recolectar mas información en el capitulo 11 y 12 para poder realizar los ejercicios propuestos de cada unidad.
 
