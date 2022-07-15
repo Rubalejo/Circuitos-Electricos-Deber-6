@@ -74,6 +74,46 @@ Analizar la teoria vista en clase y poder recolectar mas información en el capi
 
 ![image](https://user-images.githubusercontent.com/105680588/179173234-e9e17d38-9665-4bb4-88b6-8f4ee9421f45.png)
 
+
+![image](https://user-images.githubusercontent.com/105680588/179192019-a8574462-c518-40d8-b448-bd6f127bc30c.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192080-f958224c-20d7-4ff3-84af-6e5e97de0fd2.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192134-b4004508-069a-41b6-98dd-1897f8ea6874.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192171-9ac7cd24-7b80-483d-8534-3c4bd58944c9.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192202-f180e798-26c4-4255-8465-dd087876c49b.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192256-382ffa43-4ae6-4b9c-a7da-d8219e1e4d8d.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192305-b070aa2a-9db3-47e2-b98a-2c279d28e8a2.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192345-41bc3a4d-1c4f-4dd6-a6f3-9c08d33f6eb1.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192371-25e2eab7-893b-4fb0-8a81-8785d04a0dff.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192412-74651b2d-993b-48f0-ae1e-c904bf1ccac1.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192446-b0afc472-f8ce-48bf-9664-2faba96a1a40.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192472-07d888ce-1b7e-48a2-b9a7-21ffeaf9910f.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192513-0ee9832a-13f4-4f6c-9f70-159d765fc78f.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192545-f7437750-a48f-4c60-b591-046bbeed8e9b.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192589-bf3a1bd8-6fe0-410c-a713-a7c4e0084929.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192635-27850cfa-f29e-4c5e-952e-0c14ee64f10f.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192684-bd7b5e7b-cfa1-4022-959e-044f565837e3.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192725-0a89af63-0160-44aa-9f84-057d69c01335.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179192758-d26ae585-777d-41b4-abdc-0921a4d4a8d6.png)
+
+
 **4. VIDEO**
 
 https://www.youtube.com/watch?v=KEy2JZSK7mQ&ab_channel=RubenBustos
