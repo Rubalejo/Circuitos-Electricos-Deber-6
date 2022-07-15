@@ -8,7 +8,13 @@
 
 **Objetivo General**
 
+Indagar los temas vistos en el capitulo 11 y 12 de la Corriente y el voltaje alternos y de los Capacitores junto al material de apoyo del libro de floyd junto a eso elaborar los ejercicios y un video que contenga material de estos dos capitulos.
+
 **Objetivo Especifico**
+
+Identificar 
+
+Analizar la teoria vista en clase y poder recolectar mas información en el capitulo 11 y 12 para poder realizar los ejercicios propuestos de cada unidad.
 
 **2. MARCO TEÓRICO**
 
@@ -32,14 +38,15 @@
 
 ![image](https://user-images.githubusercontent.com/105680588/179155780-f3cec74a-341c-44aa-94e9-983214da99b8.png)
 
-
-
-
 **3. RESOLUCIÓN DE EJERCICIOS**
 
 **4. VIDEO**
 
 **5. CONCLUSIONES**
+
+Al completar el capitulo se pudo llevar un poco mas de practica y analisis con la ayuda de las clases propuestas del ingeniero encargado y el apoyo del libro de floyd se pudo entender de mejor manera y completar sus ejercicios sin ninguna dificultad.
+
+Se identifico la corriente y el voltaje alternos con informacion de las ondas sinuidal y del seno, se pudo estudiar el periodo, la frecuencia, etc.  
 
 **6. BIBLIOGRAFÍA**
 
@@ -47,5 +54,6 @@ Rodriguez, D. (2007). FLOYD OCTAVA EDICIÓN Principios de circuitos eléctricos.
 
 **RUBRICA**
 
+![image](https://user-images.githubusercontent.com/105680588/179156170-143b3d2c-b45c-44c5-8fe7-113afe54d9e0.png)
 
 
