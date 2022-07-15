@@ -40,6 +40,40 @@ Analizar la teoria vista en clase y poder recolectar mas información en el capi
 
 **3. RESOLUCIÓN DE EJERCICIOS**
 
+![image](https://user-images.githubusercontent.com/105680588/179172455-9aef9a9f-d410-4ae0-a362-0547dec01ae3.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172536-5ff92e79-3ff4-49fd-a094-4ce97472b431.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172583-66709f50-3f07-467e-9aac-097ae6b55689.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172633-01e69bd9-7eab-4596-8895-9837e4168573.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172684-9c22cbc2-525f-433d-9937-6b67ba7ad855.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172713-681db47b-53c9-4aa1-a228-e84902a0776e.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172757-05911c05-aa2b-4a90-bdec-7f338577f931.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172803-6b2c332f-07ec-48e4-9fbc-523b12fb6b87.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172842-481b5f78-93b6-4dd9-ae6a-2f97e6a53f1c.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172892-646b1be3-bf7d-4a49-9221-7625fe236d1c.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172931-04f2b7eb-ef83-47b5-a2ca-3bdc2d2fd76f.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179172974-97c2e692-5c88-4249-8a39-8c15095d743a.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179173030-357c57e8-cd9a-4133-9511-629ee64d9e0f.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179173067-925c4958-1384-440c-9098-f6b173d110d1.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179173105-f5093936-dc18-491e-bae0-6cc30f594ab9.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179173142-f6b61142-8936-43ec-87bf-da4141fa95d6.png)
+
+![image](https://user-images.githubusercontent.com/105680588/179173234-e9e17d38-9665-4bb4-88b6-8f4ee9421f45.png)
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
